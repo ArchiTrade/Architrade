@@ -1,4 +1,4 @@
-### Hi there 👋
+### ArchiTrade Wallet v0.3 (WITHOUT JRE FINALLY!) 
 
 <!--
 **ArchiTrade/Architrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
